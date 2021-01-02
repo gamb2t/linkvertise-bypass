@@ -6,7 +6,7 @@
 // @author       gamb1t
 // @supportURL https://discord.gg/NcGdbDgBMS
 // @homepage https://discord.gg/NcGdbDgBMS
-// @iconURL https://i.imgur.com/Er0NAHE.jpg
+// @iconURL https://i.imgur.com/OLIJlBp.jpg
 // @match        *://*.linkvertise.com/*
 // @match        *://*.linkvertise.net/*
 // @match        *://*.link-to.net/*
